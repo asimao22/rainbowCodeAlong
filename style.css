@@ -1,0 +1,56 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* the main container */
+.boxes {
+    width: 100%;
+    text-align: center;
+    background-color: gray;
+    padding:20px;
+}
+
+.box {
+    font-weight: bold;
+    width: 60%;
+    margin: 40px;
+    padding:40px;
+    font-size:2.4em;
+}
+
+.box1 {
+    background-color: purple;
+}
+
+.box2 {
+    background-color: indigo;
+    position: fixed;
+    top: 100px;
+    left: 500px;
+}
+
+.box3 {
+    background-color: blue;
+}
+
+.box4 {
+    background-color: green;
+}
+
+.box5 {
+    background-color: yellow;
+    position: relative;
+}
+
+
+.box6 {
+    background-color: orange;
+    }
+
+
+.box7 {
+    background-color: red;
+}
+}
